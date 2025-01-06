@@ -2,5 +2,8 @@
 </script>
 
 <template>
-  <h1>Welcome to vuejs-masterclass</h1>
+  <main>
+    <RouterView />
+  </main>
 </template>
+
