@@ -9,4 +9,4 @@ const route = useRoute()
   <div>
     <h1>Single Project {{ route.params?.id }}</h1>
   </div>
-</template>
+</template> 
